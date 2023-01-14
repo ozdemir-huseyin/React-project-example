@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+}
+.context{
+  margin: 30px;  
+  
+  
+}
+.table-primary{
+
+    background-color: blue;
+    height:40px ;
+    padding:10px 20px;
+}
+
+.table-secondary{
+    background-color:darkgoldenrod;
+    height:40px ;
+    padding:10px 20px;
+}
+.table-success{
+    background-color:darkgreen;
+    height:40px ;
+    padding:10px 20px;
+}
+.table-danger{
+    
+    background-color:red;
+    height:40px ;
+    padding:10px 20px;
+}
+.table-warning{
+    background-color:yellow;
+    height:40px ;
+    padding:10px 20px;
+}
+.table-info{
+    background-color:turquoise;
+    height:40px ;
+    padding:10px 20px;
+}
+.table-light{
+    background-color:honeydew;
+    height:40px ;
+    padding:10px 20px;
+}
+
+.altBaslik ul{
+list-style-type: none;
+margin-left: 580px;
+
+
+    
+}
+.container{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 10px;
+    margin-top: 200px;
+    
+}
+.altBaslik li{
+    display: inline;
+    float: left;
+    padding-left: 20px;
+    opacity: 0.5;
+}
+.container li{
+    display: flex;
+   
+    
+}
